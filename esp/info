@@ -1,0 +1,139 @@
+{
+  "uuid": "b4f63d9ab3e11d029fa0dc5c8f0dc283",
+  "path": "Offline/esp",
+  "name": "esp",
+  "content": "",
+  "created_at": "2022-07-18 15:24:46",
+  "updated_at": "2022-08-12 15:47:16",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "e256fd5dde443a66227e16115edce14c",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "06e4ef2b7f314ae09dc85cd5964ed0f0": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "16PK3300MEFCG412.5X20",
+          2,
+          "CAP-TH_BD12.5-P5.00-D0.6-FD",
+          "U1,U2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C1600343",
+            "BOM_Manufacturer": "rubycon(红宝石)",
+            "BOM_Manufacturer Part": "16PK3300MEFCG412.5X20",
+            "puuid": "646b2bc75eb7468ebc6c9b1c5395cda9",
+            "uuid": "06e4ef2b7f314ae09dc85cd5964ed0f0"
+          }
+        ]
+      ],
+      "updateTime": 1658460217,
+      "createTime": 1658129086,
+      "histories": [],
+      "created_at": "2022-07-18 15:24:46",
+      "updated_at": "2022-07-22 11:23:37"
+    },
+    {
+      "uuid": "12fe23ee2bbafeead6e88265795459bf",
+      "puuid": "b4f63d9ab3e11d029fa0dc5c8f0dc283",
+      "title": "esp01",
+      "filename": "esp01.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {},
+      "BOM": [],
+      "updateTime": 1658750637,
+      "createTime": 1658460190,
+      "histories": [],
+      "created_at": "2022-07-22 11:23:10",
+      "updated_at": "2022-07-25 20:03:57"
+    },
+    {
+      "uuid": "40e9163efd17fdfa798235b6f3a0ab7c",
+      "puuid": "b4f63d9ab3e11d029fa0dc5c8f0dc283",
+      "title": "AD-DC",
+      "filename": "AD-DC.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {},
+      "BOM": [],
+      "updateTime": 1658489176,
+      "createTime": 1658481103,
+      "histories": [],
+      "created_at": "2022-07-22 17:11:43",
+      "updated_at": "2022-07-22 19:26:16"
+    },
+    {
+      "uuid": "950114816ce6b22842122a1b3b075fe4",
+      "puuid": "b4f63d9ab3e11d029fa0dc5c8f0dc283",
+      "title": "PCB_esp",
+      "filename": "PCB_esp.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {},
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1658481958,
+      "createTime": 1658481958,
+      "histories": [],
+      "created_at": "2022-07-22 17:25:58",
+      "updated_at": "2022-07-22 17:25:58"
+    },
+    {
+      "uuid": "01f09fe23eadb665fdb76a127b5898d7",
+      "puuid": "b4f63d9ab3e11d029fa0dc5c8f0dc283",
+      "title": "esp12f",
+      "filename": "esp12f.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {},
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1660290436,
+      "createTime": 1659448077,
+      "histories": [],
+      "created_at": "2022-08-02 21:47:57",
+      "updated_at": "2022-08-12 15:47:16"
+    }
+  ],
+  "sort": [],
+  "title": "esp",
+  "foldername": "esp",
+  "schfilename": "esp.json",
+  "schfilemtime": 1658460217194
+}
