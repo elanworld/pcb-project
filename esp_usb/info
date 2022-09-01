@@ -1,0 +1,42 @@
+{
+  "path": "Offline/esp_usb",
+  "foldername": "esp_usb",
+  "name": "esp_usb",
+  "title": "esp_usb",
+  "uuid": "33519080f05c8cf0c9c6efdf4387629d",
+  "created_at": "2022-09-01 09:33:45",
+  "updated_at": "2022-09-01 09:33:45",
+  "documents": [
+    {
+      "uuid": "7e373b5b550b1e0d75962575a8dcd4e2",
+      "title": "esp",
+      "docType": 1,
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "updateTime": 1661995972,
+      "createTime": 1661995972,
+      "histories": [],
+      "created_at": "2022-09-01 09:32:52",
+      "updated_at": "2022-09-01 09:32:52"
+    },
+    {
+      "uuid": "386e5b01b0d741e72cb199752fcba6ff",
+      "title": "1-PCB_PCB_esp",
+      "filename": "1-PCB_PCB_esp.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "updateTime": 1661995972,
+      "createTime": 1661995972,
+      "histories": [],
+      "created_at": "2022-09-01 09:32:52",
+      "updated_at": "2022-09-01 09:32:52"
+    }
+  ],
+  "content": "",
+  "stick": "",
+  "sort": [],
+  "schfilename": "1-Schematic_esp_usb.json",
+  "schfilemtime": 1661995972000
+}
