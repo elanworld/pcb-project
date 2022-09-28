@@ -1,0 +1,43 @@
+{
+  "path": "Offline/charge",
+  "foldername": "charge",
+  "name": "charge",
+  "title": "charge",
+  "uuid": "c99cdbae9c9c93fe91d4323dde62e3e0",
+  "created_at": "2022-09-28 14:16:12",
+  "updated_at": "2022-09-28 14:16:12",
+  "documents": [
+    {
+      "uuid": "d62ac62f874222b43e091580b5bd764c",
+      "title": "charge",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "updateTime": 1664345739,
+      "createTime": 1664345739,
+      "histories": [],
+      "created_at": "2022-09-28 14:15:39",
+      "updated_at": "2022-09-28 14:15:39"
+    },
+    {
+      "uuid": "b1ece91480832ddc7f49a9dd5b457bbe",
+      "title": "PCB_PCB_charge",
+      "filename": "PCB_PCB_charge.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "updateTime": 1664345754,
+      "createTime": 1664345754,
+      "histories": [],
+      "created_at": "2022-09-28 14:15:54",
+      "updated_at": "2022-09-28 14:15:54"
+    }
+  ],
+  "content": "",
+  "stick": "",
+  "sort": [],
+  "schfilename": "SCH_charge.json",
+  "schfilemtime": 1664345739626.7063
+}

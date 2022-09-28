@@ -1,0 +1,43 @@
+{
+  "path": "Offline/esp_charge_normal",
+  "foldername": "esp_charge_normal",
+  "name": "esp_charge_normal",
+  "title": "esp_charge_normal",
+  "uuid": "c5ad239b645d207819001d3ebc1680b8",
+  "created_at": "2022-09-28 14:16:12",
+  "updated_at": "2022-09-28 14:16:12",
+  "documents": [
+    {
+      "uuid": "06ae99232e1edb3513175df009736c81",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "updateTime": 1664345616,
+      "createTime": 1664345616,
+      "histories": [],
+      "created_at": "2022-09-28 14:13:36",
+      "updated_at": "2022-09-28 14:13:36"
+    },
+    {
+      "uuid": "6eea78bb1af5b1111be8f600b8a5fd9e",
+      "title": "PCB_PCB_esp_charge_normal",
+      "filename": "PCB_PCB_esp_charge_normal.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "updateTime": 1664345645,
+      "createTime": 1664345645,
+      "histories": [],
+      "created_at": "2022-09-28 14:14:05",
+      "updated_at": "2022-09-28 14:14:05"
+    }
+  ],
+  "content": "",
+  "stick": "",
+  "sort": [],
+  "schfilename": "SCH_esp_charge_normal.json",
+  "schfilemtime": 1664345616821.6133
+}

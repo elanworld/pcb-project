@@ -1,10 +1,16 @@
 {
+  "c99cdbae9c9c93fe91d4323dde62e3e0": "charge",
+  "d62ac62f874222b43e091580b5bd764c": "charge\\SCH_charge.json?charge",
+  "b1ece91480832ddc7f49a9dd5b457bbe": "charge\\PCB_PCB_charge.json",
   "0d415459ac029339f99dc8ad12914b64": "esp",
   "216428e6310675fa16ef9fee21471d05": "esp\\esp.json?esp",
   "36ce6239900946ac9dc2bdb25c6f665e": "esp\\AD-DC.json",
   "2ba9e630c9bad77db107921c3dc94c51": "esp\\esp01.json",
   "10acb57f198252392aa3dab91ece0029": "esp\\esp12f.json",
   "43fbb7be887a43324dd7835a0ffcaf4c": "esp\\print.json",
+  "c5ad239b645d207819001d3ebc1680b8": "esp_charge_normal",
+  "06ae99232e1edb3513175df009736c81": "esp_charge_normal\\SCH_esp_charge_normal.json?Sheet_1",
+  "6eea78bb1af5b1111be8f600b8a5fd9e": "esp_charge_normal\\PCB_PCB_esp_charge_normal.json",
   "33519080f05c8cf0c9c6efdf4387629d": "esp_usb",
   "7e373b5b550b1e0d75962575a8dcd4e2": "esp_usb\\1-Schematic_esp_usb.json?esp",
   "386e5b01b0d741e72cb199752fcba6ff": "esp_usb\\1-PCB_PCB_esp.json"
